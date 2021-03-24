@@ -14,8 +14,8 @@
   </tr>
   <tr>
     <td>Reading01</td>
-    <td>02/12/2020</td>
-    <td><a href="https://farhanayyash.github.io/Reading-notes-301/read01">here</a></td>
+    <td>03/24/2021</td>
+    <td><a href="https://farhanayyash.github.io/ReadingNotes401/read01">here</a></td>
   </tr>
 </table>
 
