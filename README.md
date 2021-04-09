@@ -22,6 +22,11 @@
     <td>04/09/2021</td>
     <td><a href="https://farhanayyash.github.io/ReadingNotes401/read02">here</a></td>
   </tr>
+   <tr>
+    <td>Reading03</td>
+    <td>04/09/2021</td>
+    <td><a href="https://farhanayyash.github.io/ReadingNotes401/read03">here</a></td>
+  </tr>
 </table>
 
 
